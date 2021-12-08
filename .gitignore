@@ -1,0 +1,12 @@
+# skip the honking big directory
+data/
+# some other junk too
+.eclipse/
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+*mac
+*cfg
+*reg
+*pyc
+*nxs
